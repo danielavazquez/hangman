@@ -1,4 +1,4 @@
-# Giphy App
+# HangMan Game
 
 ## Description
 -Display hangman pole and figure using SVG
