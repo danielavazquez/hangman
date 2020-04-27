@@ -1,4 +1,4 @@
-# HangMan Game
+# Hangman Game
 
 ## Description
 -Display hangman pole and figure using SVG

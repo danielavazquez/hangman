@@ -46,13 +46,12 @@ h1 {
   text-align: right;
 }
 
-.wrong-letters-container {
-  p { 
-    margin: 0 0 5px;
- }
-  span {
-   font-size: 24px;
- }
+.wrong-letters-container p {
+  margin: 0 0 5px;
+}
+
+.wrong-letters-container span {
+  font-size: 24px;
 }
 
 .word {
@@ -73,6 +72,7 @@ h1 {
   height: 50px;
   width: 20px;
 }
+
 .popup-container {
   background-color: rgba(0, 0, 0, 0.3);
   position: fixed;
@@ -103,6 +103,7 @@ h1 {
   padding: 12px 20px;
   font-size: 16px;
 }
+
 
 //scales button 0.98 when you press play again
 .popup button:active {
