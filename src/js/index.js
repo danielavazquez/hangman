@@ -16,9 +16,6 @@ const words = ['application', 'programming', 'interface', 'wizard'];
 //*Fourth add keydown eventListener when clicking a letter on keyboard to fire off an event
 //*Fifth create updateWrongLetters function and showNotification function
 //*Sixth add play again button eventListener and functions to empty our correctLetters and wrongLetters arrays
-//*Seventh 
-//*Eighth 
-//*Ninth
 
 //gives you random word from words array up top
 let selectedWord = words[Math.floor(Math.random() * words.length)];
